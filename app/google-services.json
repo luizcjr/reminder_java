@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1006562933173",
+    "firebase_url": "https://reminderjava.firebaseio.com",
+    "project_id": "reminderjava",
+    "storage_bucket": "reminderjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006562933173:android:372832867abd0c77e241fc",
+        "android_client_info": {
+          "package_name": "com.luiz.reminderjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006562933173-4g673h0e8jvr0j2tjg465k9rvhib0ius.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAURPbOGRi_HbpZ56vGoBR7G4hrvdJhos8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006562933173-4g673h0e8jvr0j2tjg465k9rvhib0ius.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
